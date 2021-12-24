@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Arvind Lingwal
-- 👀 I’m interested in jobs related to Web Development, Data Science and AI/ML.
-- 🌱 I’m currently learning Python and Django.
-- 💞️ I’m looking to collaborate on Data Science, AI/ML Projects
+- 🌱 I’m currently working as a Associate Django Developer.
+- 💞️ I’m looking for collaboration on Data Science, AI/ML Web-development Projects
 - 📫 How to reach me Can mail me on arvind.lingwal@gmail.com
 
 <!---
